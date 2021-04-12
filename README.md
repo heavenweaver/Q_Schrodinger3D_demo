@@ -22,3 +22,6 @@ Different potentials are proposed:
 Any potential can be loaded with homogeneous grid x,y,z [m] and V [eV]
 
 => If you like it, don't forget the star!
+
+-> InAs/GaAs quantum dot (pyramid)
+![image](https://github.com/heavenweaver/Q_Schrodinger3D_demo/blob/heavenweaver-patch-1/PQD_FEM32-2A.png_
